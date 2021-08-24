@@ -1,0 +1,7 @@
+name: Toastcontrol
+version: ${project.version}
+main: com.bluefighter2007.toastcontrol.controlMain
+description: plugin
+commands:
+  테스트:
+    description: dd
